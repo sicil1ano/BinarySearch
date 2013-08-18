@@ -1,6 +1,7 @@
 BinarySearch
 ============
 I created a simple console application for the 2nd challenge of Code Kata's series: http://codekata.pragprog.com/2007/01/kata_two_karate.html
+
 More information about binary search: http://en.wikipedia.org/wiki/Binary_search_algorithm
 
 The application implements two algorithms of binary search:
